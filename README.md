@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-DistractedPrimate/branch/master/graph/badge.svg?token=JuPRJbQlwH)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-DistractedPrimate)
+
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
